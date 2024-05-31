@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\RayTraciingLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07625AE6-EC33-4061-AFDC-5000BCD0FDD0}|RayTraciingLab.csproj|c:\\users\\admin\\source\\repos\\raytraciinglab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07625AE6-EC33-4061-AFDC-5000BCD0FDD0}|RayTraciingLab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07625AE6-EC33-4061-AFDC-5000BCD0FDD0}|RayTraciingLab.csproj|c:\\users\\admin\\source\\repos\\raytraciinglab\\graphics\\vao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07625AE6-EC33-4061-AFDC-5000BCD0FDD0}|RayTraciingLab.csproj|solutionrelative:graphics\\vao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07625AE6-EC33-4061-AFDC-5000BCD0FDD0}|RayTraciingLab.csproj|c:\\users\\admin\\source\\repos\\raytraciinglab\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07625AE6-EC33-4061-AFDC-5000BCD0FDD0}|RayTraciingLab.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07625AE6-EC33-4061-AFDC-5000BCD0FDD0}|RayTraciingLab.csproj|c:\\users\\admin\\source\\repos\\raytraciinglab\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07625AE6-EC33-4061-AFDC-5000BCD0FDD0}|RayTraciingLab.csproj|solutionrelative:background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RayTraciingLab\\Graphics\\VAO.cs",
+              "RelativeDocumentMoniker": "Graphics\\VAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RayTraciingLab\\Graphics\\VAO.cs",
+              "RelativeToolTip": "Graphics\\VAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:01:30.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RayTraciingLab\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RayTraciingLab\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:00:46.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RayTraciingLab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RayTraciingLab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:00:32.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Background.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RayTraciingLab\\Background.cs",
+              "RelativeDocumentMoniker": "Background.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RayTraciingLab\\Background.cs",
+              "RelativeToolTip": "Background.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:00:14.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
